@@ -9,7 +9,7 @@ The goal of this project is to create a system capable of detecting and identify
 ## Dataset Creation 📸  
 The dataset for this project was gathered by taking pictures in a market environment. It includes images captured by the user and supplemented by images from an existing dataset and Google. All images were annotated to be used with YOLO (You Only Look Once) for training the object detection model.
 
-![App Screenshot](<img width="210" alt="Dataset" src="https://github.com/user-attachments/assets/d8d59b48-a379-48f8-bab7-5b4727221298">)
+<img width="210" alt="Dataset" src="https://github.com/user-attachments/assets/d8d59b48-a379-48f8-bab7-5b4727221298">
 
 ## 📂 **Features**  
 - Detects visually similar vegetables like Sponge gourd, Bottle gourd, Ridge gourd, Bitter gourd, and Cucumber.  
